@@ -58,10 +58,13 @@ header {
     transition: color 0.3s;
 }
 
-.nav-links li a:hover{
-    color: #00b4d8;
+.nav-links li:hover{
     transform: scale(1.1);
 }
+.nav-links li a:hover{
+    color: #00b4d8;
+}
+
 
 .auth-buttons .btn {
     margin-left: 10px;
