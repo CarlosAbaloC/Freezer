@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Carga tubos",
+    "sueldo": "1200",
+    "descripcion": "Trabajo simple en zona A",
+    "requisitos": ["HTML", "CSS", "PHP"]
+  },
+  {
+    "nombre": "Vigilante noche",
+    "sueldo": "950",
+    "descripcion": "Turno largo, poca gente",
+    "requisitos": ["Python", "Java"]
+  },
+  {
+    "nombre": "Reparto mini",
+    "sueldo": "700",
+    "descripcion": "Entregar cajas pequeñas",
+    "requisitos": ["PHP", "Java"]
+  },
+  {
+    "nombre": "Ayuda taller",
+    "sueldo": "1100",
+    "descripcion": "Limpiar piezas y mover cosas",
+    "requisitos": ["PSP", "Python"]
+  }
+]
